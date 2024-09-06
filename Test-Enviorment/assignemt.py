@@ -34,3 +34,6 @@ for i in range(1,6):
 print ("\nA Solution:")
 for i in range(5,0,-1):
     print(i)
+
+hello_world = 'fazi'
+print (f"\nA Solution:{hello_world}")
