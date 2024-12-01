@@ -1,0 +1,41 @@
+{
+  "PIAIC": {
+    "Name": "Muhammad Abdul Rehman",
+    "Roll Number": "PIAIC190623"
+  },
+  "Course": {
+    "Name": "Certified Agentic and Robotic AI Engineer",
+    "Description": "Master the Future: Getting You Ready For The $100 Trillion AI Industrial Revolution"
+  },
+  "Duration": "2-Years",
+  "Course Outline": {
+    "Quarter-1": {
+      "Name": "AI-101: Modern AI Python Programming",
+      "Outline": "AI-101: Modern AI Python Programming\nThe main focus in this course will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. At the end of the program, we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub.\nCertification:\nCertified Professional Python Programmer (CPPP1)\nLearning Repo: https://github.com/panaversity/learn-cloud-native-modern-python"
+    },
+    "Quarter-2": {
+      "Name": "AI-201: Fundamentals of Agentic AI",
+      "Outline": "AI-201: Fundamentals of Agentic AI\nIn this quarter, students will embark on a comprehensive journey into the realms of Generative AI and Agentic AI. The curriculum begins with an introduction to these foundational concepts, establishing a solid understanding of their principles and distinctions. Students will then engage in hands-on development of custom GPTs, facilitating a deeper grasp of AI functionalities and applications. A significant portion of the quarter is dedicated to mastering Prompt Engineering, emphasizing the creation of effective prompts to optimize AI outputs. Leveraging the user-friendly CrewAI framework, students will develop AI agents, applying their theoretical knowledge to practical scenarios. The course also delves into the construction of Knowledge Graphs using Graph Databases and GQL, equipping students with the skills to organize and query complex data structures. Additionally, the semester covers Agentic Payments, exploring the integration of AI agents in financial transactions and payment systems.\nLearning Repo:\nhttps://github.com/panaversity/learn-agentic-ai/\nCovers Chapters from 1 to 11 of the Repo\nPrerequisite: AI-101"
+    },
+    "Quarter-3": {
+      "Name": "AI-202: Advanced Agentic AI Engineering",
+      "Outline": "Building upon the foundational knowledge acquired in AI-201, this quarter focuses on advanced Agentic AI engineering using more sophisticated frameworks. Students will delve into LangGraph and LangChain, gaining proficiency in these powerful tools to create complex AI agents. The curriculum emphasizes the development of sophisticated AI agents capable of performing intricate tasks and decision-making processes. Through a combination of theoretical instruction and practical projects, students will enhance their capabilities in designing, implementing, and deploying advanced AI solutions, preparing them for challenges in the evolving field of Agentic AI.\nThe course will then transition to frontend development, where learners will be introduced to Next.js and its powerful features for building dynamic web applications. By incorporating TypeScript, participants will enhance their development process with strong typing and advanced features. This part concludes with a project, allowing learners to develop a complete AI agent frontend, combining their Knowledge Graphs with modern web technologies for a seamless user experience.\nLearning Repo:\nhttps://github.com/panaversity/learn-agentic-ai/\nCovers Chapters 12 and onwards\nPrerequisite: AI-101, AI-201"
+    },
+    "Quarter-4": {
+      "Name": "AI-301: Cloud Native AI Microservices",
+      "Outline": "Build scalable AI Powered APIs using FastAPI, GQL, Neo4j, Kafka, Kong, GenAI APIs like OpenAI Chat Completion APIs, Assistant APIs, LangChain, and Open Source AI LLMs. Develop them using Containers and Dev Containers, and deploy them using Docker Compose locally and Kubernetes Powered Serverless Container Services on the cloud.\nWe will also learn to integrate design thinking and Behavior-Driven Development (BDD) in developing AI systems. Design thinking ensures a thorough understanding of the user and problem space, while BDD provides a structured approach to defining and validating the desired behaviors of the AI system. Together, these methodologies lead to the development of AI solutions that are not only technically robust but also highly user-centric and effective in solving real-world problems.\nLearning Repo:\nhttps://github.com/panaversity/learn-cloud-native-ai-powered-microservices/\nWe Will Be Using Microsoft Azure as our Default Cloud Platform.\nPrerequisite: AI-101"
+    },
+    "Quarter-5": {
+      "Name": "AI-451: Physical and Humanoid Robotics AI",
+      "Outline": "Artificial intelligence (AI) has experienced remarkable advancements in recent years. However, the future of AI extends beyond the digital space into the physical world, driven by robotics. This new frontier, known as 'Physical AI,' involves AI systems that can function in the real world and comprehend physical laws. This marks a notable transition from AI models confined to digital environments.\nHumanoid robots are poised to excel in our human-centered world because they share our physical form and can be trained with abundant data from interacting in human environments.\nThis course provides an in-depth exploration of humanoid robotics, focusing on the integration of ROS 2 (Robot Operating System), Gazebo Robot Simulator, and NVIDIA Isaac™ AI robot development platform. Students will learn to design, simulate, and deploy advanced humanoid robots capable of natural interactions. The curriculum covers essential topics such as ROS 2 for robotic control, simulations with Gazebo and Unity, and using OpenAI’s GPT models for conversational AI. Through practical projects and real-world applications, students will develop the skills needed to drive innovation in humanoid robotics.\nLearning Repo:\nhttps://github.com/panaversity/learn-physical-ai-humanoid-robotics"
+    },
+    "Quarter-6": {
+      "Name": "AI-461: Distributed AI Computing",
+      "Outline": "Ray is the AI Compute Engine. Ray manages, executes, and optimizes compute needs across AI workloads. It unifies infrastructure via a single, flexible framework—enabling any AI workload from data processing to model training to model serving and beyond. This course provides an in-depth exploration of distributed computing using Ray, a framework for building and scaling distributed Python applications. Students will learn to develop, deploy, and optimize distributed systems using Ray, with applications in machine learning, data processing, and reinforcement learning.\nLearning Repo:\nhttps://github.com/panaversity/learn-ray-distributed-ai"
+    },
+    "Quarter-7": {
+      "Name": "Professional Level",
+      "Outline": "AI-500: AI Ethics and Governance: Principles and Practices\nIn the rapidly evolving field of artificial intelligence, understanding the ethical implications and governance frameworks is crucial. This course delves into the core principles of AI ethics, including fairness, transparency, accountability, and privacy. Participants will explore the societal impacts of AI across various sectors, examine international and national governance structures, and learn strategies for integrating ethical considerations into AI design and deployment.\nAI-501: Distributed Machine Learning\nLearning Repo: https://github.com/panaversity/genai-with-pytorch\nAI-502: Customising Open Source LLMs\nLearning Repo: https://github.com/panaversity/learn-fine-tuning-llms\nAI-651: Advanced Cloud Native and Distributed AI Computing\nLearning Repo: https://github.com/panaversity/learn-kubernetes"
+    }
+  }
+}
